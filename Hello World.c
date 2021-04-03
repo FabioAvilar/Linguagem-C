@@ -2,13 +2,8 @@
 #include <stdlib.h>
 
 int main () {
-    int A, B;
 
-    printf("\n Digite o valor 1: \t");
-    scanf("%d", &A);
-
-    printf("\n Digite o valor 2: \t");
-    scanf("%d", B);
+    printf("\n Hello World \t");
 
 return 0;
 }
